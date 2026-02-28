@@ -18,3 +18,4 @@ Whether you’re planning a weekend escape, a cultural adventure, a food tour, o
 🧠 Why This Project Matters
 
 Traditional travel planning can be overwhelming — with countless websites, blogs, and tools to sift through. Explore with AI streamlines that by intelligently understanding your travel preferences and generating a ready-to-use plan in minutes. It combines modern generative AI techniques with travel logic to transform your ideas into unforgettable journeys.
+
